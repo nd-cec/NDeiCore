@@ -22,3 +22,5 @@ end
 group :production do
   gem 'thin'
 end
+
+gem 'n_stock', path: "../n_stock"
