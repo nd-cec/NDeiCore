@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ndeicore
 =========
 
@@ -137,3 +138,7 @@ License
 --
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+=======
+NDeiCore
+========
+>>>>>>> 37cfb9d151df5515848ab95ac98434927bea0988
